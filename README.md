@@ -1,5 +1,5 @@
 # RBXmesh-blender
-A simple Blender add-on that allows you to import & export directly as .mesh for roblox!
+A simple Blender add-on that allows you to import & export directly as .mesh (2.0) for roblox! It follows the 2.0 file format for mesh files, you'll be missing out on many of the recently released features ( mesh deformation, facial animations, ecc... )
 
 ## How to install:
 To install the addon, simply open blender and load it in! That's it. nothing else to do.
